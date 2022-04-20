@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	int _printf(const char *format, ...);
 	int a;
 	int number;
 
